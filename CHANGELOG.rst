@@ -14,6 +14,11 @@ Change Log
 Unreleased
 ~~~~~~~~~~
 
+[4.1.0] - 2021-02-10
+~~~~~~~~~~~~~~~~~~~~
+
+* Expose toggle state report via a Python API.
+
 [4.0.0] - 2021-01-24
 ~~~~~~~~~~~~~~~~~~~~
 
