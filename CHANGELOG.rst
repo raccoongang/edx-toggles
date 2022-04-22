@@ -14,6 +14,10 @@ Change Log
 Unreleased
 ~~~~~~~~~~
 
+[5.0.0] - 2022-04-22
+--------------------
+
+* Removed LegacyWaffle* classes
 * Handle the case where certain toggle names come in as ``None`` when generating summary reports.
 * Add ADR for updating annotations for toggle life expectancy and use cases.
 
